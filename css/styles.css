@@ -113,3 +113,15 @@ h2 {
     background-image: linear-gradient(rgb(255, 192, 203), rgb(255, 255, 255));
 
 }
+form p{
+    display: flex;
+    margin-bottom: 2em;
+}
+form label{
+    flex-basis:25%
+}
+.thanks{
+    text-align: center;
+    text-decoration: underline;
+    
+}
