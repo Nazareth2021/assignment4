@@ -33,7 +33,11 @@ body {
     
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
+    height: 40em;
+    font-size: 1.3em;
+    color:darkorange;
+    
 }
 
 
@@ -128,8 +132,4 @@ form p{
 form label{
     flex-basis:25%
 }
-.thanks{
-    text-align: center;
-    text-decoration: underline;
-    
-}
+
