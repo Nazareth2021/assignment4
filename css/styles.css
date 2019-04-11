@@ -29,6 +29,14 @@ body {
     flex-direction: column
 }
 
+.thanks {
+    
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
 main {
 
     display: flex;
